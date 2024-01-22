@@ -1,3 +1,5 @@
+## This was my universiy personal Project while studying at Coventry University.
+
 A team of analysts faced the challenge of analyzing a vast amount of forecast data spanning 100 years, totaling 9TB. The initial solution involved sequential processing, but due to time constraints and the continuous influx of new data, this approach proved impractical. The team aimed to process 24 hours of data in under two hours, significantly reducing the overall processing time.
 
 To achieve this goal, the team proposed using big data processing techniques, specifically employing parallel processing. The analogy of a restaurant's growth in staff to handle increased demand was used to explain the concept. In parallel processing, the workload is distributed among multiple processing units, enhancing efficiency.
